@@ -13,7 +13,7 @@ Focused on building **playable, end-to-end prototypes** with clean architecture,
 
 > A fast-paced hyper-casual runner featuring stacking mechanics, smooth swerve controls, and procedural level generation.
 
-![Demo Gameplay](./Media/animation-2.gif)
+![Image](https://github.com/user-attachments/assets/c2e7ac60-22f3-4969-9307-57f0025cbdb1)
 
 ### 📌 Project Overview
 This project demonstrates a complete **hyper-casual gameplay loop**: simple input, immediate feedback, and satisfying progression.  

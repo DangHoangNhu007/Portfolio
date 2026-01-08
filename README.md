@@ -47,6 +47,7 @@ Players collect blocks to increase height, overcome obstacles, and reach the fin
 - Reach the finish line to win
 
 🔗 **Source:** *https://github.com/DangHoangNhu007/The-Stack-Runner-*
+Demo: https://danghoangnhu.itch.io/the-stack-runner
 
 ---
 

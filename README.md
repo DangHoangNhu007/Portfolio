@@ -88,6 +88,7 @@ Players must calculate angles and use wall reflections to eliminate enemies hidd
 - Use walls to ricochet bullets and hit enemies
 
 🔗 **Source: https://github.com/DangHoangNhu007/Ricochet-Shooter
+🔗 **Demo: https://danghoangnhu.itch.io/ricochet-shooter
 
 ---
 
